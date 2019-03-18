@@ -1,7 +1,7 @@
 # algorithm-design-manual-solutions
 Solution to problems from the book "The Algorithm Design Manual" in JavaScript and C/C++.
 
-*Testing JS Solutions:*
+## Testing JS Solutions
 
 In the directories with test.js file, just ru:
 
@@ -9,7 +9,7 @@ In the directories with test.js file, just ru:
 node test
 ```
 
-*Compiling C++ Solutions (GCC)*
+## Compiling C++ Solutions (GCC)
 Bellow is an example compiling solution from chapter 1:
 
 ```
