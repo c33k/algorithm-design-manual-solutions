@@ -24,4 +24,4 @@ If you run the .a.out file
 ```
 
 and get no output, it means that the tests passed and everything is ok!
-(rule of silence).
+([Unix rule of silence](http://www.linfo.org/rule_of_silence.html)).
